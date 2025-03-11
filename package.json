@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "firebase": "^11.4.0"
+  },
+  "name": "serph-nft-redemption-portal",
+  "version": "1.0.0",
+  "description": "Project Overview   The SERPH NFT Redemption Portal is a luxury self-care themed web platform where users can:   ✔️ Track and redeem NFTs for herbal capsules, teas, and detergent bundles   ✔️ Monitor transactions and order tracking for SERPH Coin purchases   ✔️ Provide a seamless and immersive experience for NFT holders",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thve74/SERPH-NFT-Redemption-Portal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thve74/SERPH-NFT-Redemption-Portal/issues"
+  },
+  "homepage": "https://github.com/thve74/SERPH-NFT-Redemption-Portal#readme"
+}
